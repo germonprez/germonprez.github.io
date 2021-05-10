@@ -21,7 +21,7 @@
 title: Matt Germonprez
 email: germonprez@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Description of Matt Germonprez
+  Description of Matt Germonprez' Page
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: @germ
